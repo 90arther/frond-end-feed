@@ -1,2 +1,2 @@
 # frond-end-feed
-Frontend feed list
+Frontend feed, including China.
